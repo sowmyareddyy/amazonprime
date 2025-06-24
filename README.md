@@ -47,63 +47,80 @@ prime-video-ui-clone/
 ├── postcss.config.js
 ├── package.json
 └── README.md
+````
+
+---
 
 ## 🛠️ Tech Stack
 
-- **React.js** – Component-based UI
-- **Tailwind CSS** – Utility-first CSS for styling
-- **React Router DOM** – Routing and navigation
-- **LocalStorage** – Simulating login/session persistence
-- **Responsive Design** – Grid & Flex utilities
+* **React.js** – Declarative UI and reusable components
+* **Tailwind CSS** – Fast and responsive utility-first styling
+* **React Router DOM** – SPA navigation and routing
+* **LocalStorage** – Basic simulation of user sessions
+* **Vite** – Lightning-fast development server
 
 ---
 
 ## 🧠 Evaluation Criteria Mapping
 
-| Criteria                           | Implemented |
-|------------------------------------|-------------|
-| ✅ Code Quality & Logic (25%)       | ✔️ Yes       |
-| ✅ Functionality (25%)              | ✔️ Yes       |
-| ✅ Interactive Component (25%)      | ✔️ Yes       |
-| ✅ Code Organization (15%)          | ✔️ Yes       |
-| ✅ Documentation (10%)              | ✔️ Yes       |
+| Evaluation Criteria                    | ✅ Status                                |
+| -------------------------------------- | --------------------------------------- |
+| Code Quality & Logic (25%)             | ✔️ Achieved                             |
+| Functionality (25%)                    | ✔️ Achieved                             |
+| At Least One Interactive Feature (25%) | ✔️ Hover effects, dropdown, play button |
+| Code Organization (15%)                | ✔️ Modular folders, reusable components |
+| Documentation (10%)                    | ✔️ You're reading it!                   |
 
 ---
 
 ## 📸 Preview
 
-> _You can add screenshots or a live demo GIF here if needed._
+> *Add demo GIFs or screenshots here using markdown image syntax:*
+>
+> ```md
+> ![Preview](./src/assets/screenshot.png)
+> ```
 
 ---
 
-## 📄 How to Run Locally
+## 📄 Getting Started
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your-username/prime-video-ui-clone.git
-   cd prime-video-ui-clone
+### Clone the repository
 
+```bash
+git clone https://github.com/your-username/prime-video-ui-clone.git
+cd prime-video-ui-clone
+```
 
-2. **Install dependencies**
+### Install dependencies
 
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
-3. **Start the development server**
+### Run the development server
 
-   ```bash
-   npm run dev
-   ```
+```bash
+npm run dev
+```
 
-4. Visit `http://localhost:5173` in your browser.
+Visit `http://localhost:5173` in your browser to view the app.
 
 ---
 
-## 📬 Contact
+## 🙋‍♀️ Author
 
 Created with 💙 by **V Sowmya Reddy**
-For questions or collaboration, feel free to reach out via [LinkedIn](https://www.linkedin.com) or email.
+
+* 📫 Reach me on [LinkedIn](https://www.linkedin.com)
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 Portfolio: \[Coming Soon!]
 
 ---
+
+## 📌 License
+
+This project is open-source and free to use for educational or personal learning purposes.
+```
+
 
