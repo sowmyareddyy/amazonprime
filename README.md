@@ -1,55 +1,52 @@
 
 # 🎬 Prime Video UI Clone
 
-A responsive and interactive **Amazon Prime Video UI clone** built using **React.js** and **Tailwind CSS**, closely replicating the modern streaming experience. The project highlights clean code structure, reusable components, interactivity, and a dynamic, professional UI layout.
+A responsive, modern, and interactive **Amazon Prime Video UI clone** built with **React.js** and **Tailwind CSS**. This project demonstrates modular component design, genre-based media display, and engaging UI interactions — all aimed at replicating a polished OTT streaming platform experience.
 
 ---
 
 ## 🚀 Features
 
-- 🔐 **Profile Selection & Authentication Simulation**
-- 🧭 **Navigation Tabs**: Home, Movies, TV Shows, Live TV, Subscriptions
-- 🎞️ **Genre-Based Categorization**:
+- 🔐 **Profile Management** – Simulated user profile dropdown with logout
+- 🧭 **Navigation** – Home, Movies, TV Shows, Live TV, Subscriptions
+- 🎞️ **Genre-Based Sections** – Movie & Show categories such as:
   - Top Movies
   - Romantic Comedies
-  - Action/Crime/Drama
-  - Trending & Featured
-- 🖼️ **Interactive Movie & TV Show Cards**:
-  - Hover expansion effects
-  - Badge display (e.g., HD, TOP RATED)
-  - Description and "▶ Play Now" button reveal
-- 🔍 **Search Bar UI**
-- 📱 **Fully Responsive** for mobile, tablet, and desktop
-- 🌑 **Dark Themed UI** similar to Amazon Prime Video
+  - Action / Crime / Drama
+  - Continue Watching
+- 🖼️ **Interactive Cards** – On-hover animation with:
+  - Enlarged previews
+  - Movie/show title, description, and badges (HD, Top Rated)
+  - Call-to-action: "▶ Play Now" button
+- 🔍 **Search Bar** – UI-ready input with future search handling
+- 📱 **Responsive Design** – Optimized for mobile, tablet, and desktop
+- 🌑 **Dark Mode** – Sleek visual style consistent with Prime Video
 
 ---
 
 ## 📂 Project Structure
 
+```text
 prime-video-ui-clone/
-│
 ├── public/
-│ └── index.html
-│
+│   └── index.html
 ├── src/
-│ ├── assets/ # Static assets (images, icons)
-│ ├── components/ # Navbar, Layout, Section (reusable UI components)
-│ ├── data/
-│ │ └── videos.json # All video content categorized
-│ ├── pages/ # All main route pages
-│ │ ├── HomePage.jsx
-│ │ ├── MoviesPage.jsx
-│ │ ├── TVShowsPage.jsx
-│ │ ├── LiveTVPage.jsx
-│ │ └── SubscriptionPage.jsx
-│ ├── App.js # Route logic & layout handling
-│ └── index.js # Entry point
-│
+│   ├── assets/             # Static assets (images, icons)
+│   ├── components/         # Navbar, Layout, Section (reusable UI components)
+│   ├── data/
+│   │   └── videos.json     # All video content categorized
+│   ├── pages/              # Main route-based views
+│   │   ├── HomePage.jsx
+│   │   ├── MoviesPage.jsx
+│   │   ├── TVShowsPage.jsx
+│   │   ├── LiveTVPage.jsx
+│   │   └── SubscriptionPage.jsx
+│   ├── App.js              # Route logic & layout rendering
+│   └── index.js            # Entry point
 ├── tailwind.config.js
 ├── postcss.config.js
 ├── package.json
 └── README.md
-
 
 ## 🛠️ Tech Stack
 
