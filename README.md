@@ -1,8 +1,4 @@
-Here's your **professionally cleaned and updated `README.md`**, combining your advanced Prime Video UI Clone info while removing default `create-react-app` content and merge conflicts.
 
----
-
-````md
 # 🎬 Prime Video UI Clone
 
 An immersive and highly interactive **Amazon Prime Video UI Clone** crafted with **React.js**, **Tailwind CSS**, and **React Router**. This project simulates a full-fledged OTT platform with genre-based content organization, responsive layout, and sleek animations — closely mimicking the user experience of modern streaming services.
@@ -84,7 +80,7 @@ prime-video-ui-clone/
 You can add a demo screenshot or GIF like this:
 
 ```md
-![App Preview](./src/assets/screenshot.png)
+![App Preview]("C:\Users\sowmy\OneDrive\Desktop\prime-ui-clone\public\assets\Screenshot (256).png")
 ```
 
 ---
@@ -110,16 +106,16 @@ npm install
 npm run dev
 ```
 
-Visit `http://localhost:5173` to explore the app in your browser.
+Visit `http://localhost:3000` to explore the app in your browser.
 
 ---
 
 ## 🙋‍♀️ About Me
 
-Created with 💙 by **V Sowmya Reddy**
+Created by **V Sowmya Reddy**
 
-* 🌐 [LinkedIn](https://www.linkedin.com/in/sowmyareddyy)
-* ✉️ Email: [vsowmyareddy@example.com](mailto:vsowmyareddy@example.com)
+* 🌐 [LinkedIn](https://www.linkedin.com/in/sowmyareddyvangooru/))
+* ✉️ Email: [sowmyareddy1918@gmail.com](mailto:sowmyareddy1918@gmail.com)
 * 💼 Portfolio: *Coming Soon*
 
 ---
@@ -132,20 +128,6 @@ This project is **open source** and free to use for educational or non-commercia
 
 > ⭐ Don't forget to give this repo a star if you liked the project!
 
-````
+
 
 ---
-
-### ✅ What’s Next?
-
-- ✅ Replace `vsowmyareddy@example.com` with your actual email.
-- ✅ Add a real screenshot at `src/assets/screenshot.png` or remove the image block.
-- ✅ Push this new `README.md` using:
-
-```bash
-git add README.md
-git commit -m "Updated README to professional version"
-git push origin main
-````
-
-Let me know if you want a professional **LinkedIn post caption** too!
