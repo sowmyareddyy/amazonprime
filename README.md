@@ -112,7 +112,7 @@ Created by **V Sowmya Reddy**
 
 * 🌐 [LinkedIn](https://www.linkedin.com/in/sowmyareddyvangooru/)
 * ✉️ Email: [sowmyareddy1918@gmail.com](mailto:sowmyareddy1918@gmail.com)
-* 💼 Portfolio: *Coming Soon*
+* 💼 Portfolio: (https://sowmyareddyvangooru.vercel.app/)
 
 ---
 
