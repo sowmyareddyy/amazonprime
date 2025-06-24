@@ -1,0 +1,22 @@
+{
+  "drama": [
+    {
+      "title": "Placeholder Drama Show",
+      "thumbnail": "https://via.placeholder.com/300x450.png?text=Drama+Show",
+      "badge": "NEW"
+    }
+  ],
+  "comedy": [
+    {
+      "title": "Placeholder Comedy Show",
+      "thumbnail": "https://via.placeholder.com/300x450.png?text=Comedy+Show",
+      "badge": "TRENDING"
+    }
+  ],
+  "thriller": [
+    {
+      "title": "Placeholder Thriller Show",
+      "thumbnail": "https://via.placeholder.com/300x450.png?text=Thriller+Show"
+    }
+  ]
+}

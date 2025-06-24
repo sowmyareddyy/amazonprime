@@ -1,0 +1,33 @@
+.carousel {
+  margin: 2rem 1rem;
+}
+
+.carousel-title {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+
+.carousel-row {
+  display: flex;
+  overflow-x: auto;
+  gap: 1rem;
+  padding-bottom: 1rem;
+}
+
+.carousel-row::-webkit-scrollbar {
+  display: none;
+}
+@media screen and (max-width: 768px) {
+  .carousel-row {
+    gap: 0.6rem;
+  }
+
+  .video-card {
+    width: 140px;
+  }
+
+  .language-grid {
+    grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "featured": [
+    {
+      "title": "Major",
+      "thumbnail": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/06/major-movie-1656582925.jpg",
+      "badge": "NEW",
+      "description": "Major Sandeep Unnikrishnan faces his biggest battle when he joins the task force to save the occupants at the Taj Hotel attacked by a terrorist group."
+    },
+    {
+      "title": "Hi Nanna",
+      "thumbnail": "https://www.fridaywall.com/wp-content/uploads/2023/12/Hi-Nanna-1.webp",
+      "badge": "FEATURED",
+      "description": "A doting father and his 6-year-old daughter find their lives taking a dramatic turn when the woman he loves marries someone else."
+    },
+    {
+      "title": "La La Land",
+      "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/0243e31e3fea5624f9c8532e468d5eb45173e593054886d31162eb20580c3b78.jpg",
+      "badge": "HD",
+      "description": "When Sebastian, a pianist, and Mia, an actress, follow their passion and achieve success in their respective fields, they find themselves torn between their love for each other and their careers."
+    },
+    {
+      "title": "Happydays",
+      "thumbnail": "https://i.pinimg.com/736x/2b/91/5d/2b915d00ada96d01757061f8dfd5ad2a.jpg",
+      "badge": "HD",
+      "description": "A group of eight youngsters from an engineering college form an unbreakable friendship after going through various struggles."
+    }
+  ],
+  "crime": [
+    {
+      "title": "HIT: The Second Case",
+      "thumbnail": "https://images.indianexpress.com/2022/12/adivi-shesh.jpg",
+      "badge": "NEW EPISODE",
+      "description": "Krishna Dev, a nonchalant police officer, investigates a gruesome murder case and as the case unfolds, the level of danger rises."
+    },
+    {
+      "title": "Lucky Bhasker",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjEzN2ZjYjUtZTI3NC00MzMyLWJiNDAtMDBiZGEzNTBiY2RkXkEyXkFqcGc@._V1_.jpg",
+      "description": "A cash-strapped cashier working at a bank embarks on a risky investment scheme and soon gets drawn into the murky world of money laundering."
+    },
+    {
+      "title": "Yashodha",
+      "thumbnail": "https://cdn.123telugu.com/content/wp-content/uploads/2022/11/Yashoda-m.jpg",
+      "badge": "TOP RATED",
+      "description": "An innocent woman agrees to be a surrogate mother at a highly plush facility to find her missing sister. However, she uncovers the shocking truth about the centre."
+    },
+    {
+      "title": "Pushpa 2",
+      "thumbnail": "https://img.etimg.com/thumb/width-420,height-315,imgsize-77250,resizemode-75,msid-115386175/magazines/panache/pushpa-2-trailer-review-what-allu-arjun-and-rashmika-mandannas-fans-are-saying/pushpa-2-the-rule.jpg",
+      "badge": "TOP RATED",
+      "description": "A powerful smuggler goes head-to-head with a vengeful enemy while controlling politics and managing high-stakes confrontations. A public apology sparks a tense showdown, culminating in a challenge."
+    }
+  ],
+  "continue": [
+    {
+      "title": "Ocean's Eleven",
+      "thumbnail": "https://i.pinimg.com/736x/1a/ef/b4/1aefb4bfd7063a34361aebf8b2779337.jpg",
+"description": "Danny Ocean, a gangster, rounds up a gang of associates to stage a sophisticated and elaborate casino heist which involves robbing three Las Vegas casinos simultaneously during a popular boxing event."
+    },
+    {
+      "title": "ZNMD",
+      "thumbnail": "https://i.pinimg.com/736x/92/ee/00/92ee00cad14a11ac7f3f89d52cfbaf0b.jpg",
+"description": "Friends Kabir, Imran and Arjun take a vacation in Spain before Kabir's marriage. The trip turns into an opportunity to mend fences, heal wounds, fall in love with life and combat their worst fears."
+    },
+    {
+      "title": "Kushi",
+      "thumbnail": "https://www.hindustantimes.com/ht-img/img/2023/09/04/1600x900/Kushi_1693798454981_1693798461695.jpg",
+      "description": "A young man from an agnostic family falls in love with the daughter of his father's arch-rival, a devout Hindu leader."
+    },
+{
+      "title": "Jumanji Next Level",
+      "thumbnail": "https://i.pinimg.com/736x/ae/be/de/aebedea565116005359ffa4b29344622.jpg",
+"description": "When Spencer goes missing, his group of friends return to Jumanji to travel unexplored territories and help him escape the world's most dangerous game."
+    }
+  ],
+  "movies": [
+    {
+      "title": "Interstellar",
+      "thumbnail": "https://i.pinimg.com/736x/09/c0/69/09c069bda93ce50fc6f3c29ce01a91be.jpg",
+      "badge": "Sci-Fi"
+    },
+    {
+      "title": "Inception",
+      "thumbnail": "https://i.pinimg.com/736x/51/7d/3d/517d3d9c9870a96e3c088925aa0ea5c1.jpg",
+      "badge": "Blockbuster"
+    }
+  ],
+  "tvshows": [
+    {
+      "title": "Stranger Things",
+      "thumbnail": "https://i.pinimg.com/736x/38/cc/7e/38cc7e3f8c1c1e074c2d553ef4fa9ee0.jpg",
+      "badge": "Season 4"
+    },
+    {
+      "title": "Money Heist",
+      "thumbnail": "https://i.pinimg.com/736x/4c/27/8b/4c278be02e4f6e9a14c2b3f55f3b3264.jpg",
+      "badge": "Binge Now"
+    }
+  ]
+}
