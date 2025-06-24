@@ -77,11 +77,7 @@ prime-video-ui-clone/
 
 ## 📸 Preview
 
-You can add a demo screenshot or GIF like this:
-
-```md
-![App Preview]("C:\Users\sowmy\OneDrive\Desktop\prime-ui-clone\public\assets\Screenshot (256).png")
-```
+![App Preview](./public/assets/Screenshot(256).png)
 
 ---
 
@@ -114,7 +110,7 @@ Visit `http://localhost:3000` to explore the app in your browser.
 
 Created by **V Sowmya Reddy**
 
-* 🌐 [LinkedIn](https://www.linkedin.com/in/sowmyareddyvangooru/))
+* 🌐 [LinkedIn](https://www.linkedin.com/in/sowmyareddyvangooru/)
 * ✉️ Email: [sowmyareddy1918@gmail.com](mailto:sowmyareddy1918@gmail.com)
 * 💼 Portfolio: *Coming Soon*
 
