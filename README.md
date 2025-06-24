@@ -1,120 +1,64 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+Here's your **professionally cleaned and updated `README.md`**, combining your advanced Prime Video UI Clone info while removing default `create-react-app` content and merge conflicts.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-
+````md
 # 🎬 Prime Video UI Clone
 
-A responsive, modern, and interactive **Amazon Prime Video UI clone** built with **React.js** and **Tailwind CSS**. This project demonstrates modular component design, genre-based media display, and engaging UI interactions — all aimed at replicating a polished OTT streaming platform experience.
+An immersive and highly interactive **Amazon Prime Video UI Clone** crafted with **React.js**, **Tailwind CSS**, and **React Router**. This project simulates a full-fledged OTT platform with genre-based content organization, responsive layout, and sleek animations — closely mimicking the user experience of modern streaming services.
 
 ---
 
 ## 🚀 Features
 
-- 🔐 **Profile Management** – Simulated user profile dropdown with logout
-- 🧭 **Navigation** – Home, Movies, TV Shows, Live TV, Subscriptions
-- 🎞️ **Genre-Based Sections** – Movie & Show categories such as:
+- 🔐 **Simulated Authentication**: Basic profile dropdown and logout simulation
+- 🧭 **Navigation**: Clean routing between Home, Movies, TV Shows, Live TV & Subscription pages
+- 🗂️ **Genre Sections**:
   - Top Movies
   - Romantic Comedies
-  - Action / Crime / Drama
-  - Continue Watching
-- 🖼️ **Interactive Cards** – On-hover animation with:
-  - Enlarged previews
-  - Movie/show title, description, and badges (HD, Top Rated)
-  - Call-to-action: "▶ Play Now" button
-- 🔍 **Search Bar** – UI-ready input with future search handling
-- 📱 **Responsive Design** – Optimized for mobile, tablet, and desktop
-- 🌑 **Dark Mode** – Sleek visual style consistent with Prime Video
+  - Action, Crime, Drama
+  - Trending & Continue Watching
+- 🖼️ **Interactive Media Cards**:
+  - Hover animations
+  - Title, description, badge (e.g., HD, FEATURED)
+  - “▶ Play Now” CTA
+- 🌐 **Search UI**: Placeholder input for future full-text search integration
+- 📱 **Responsive Layout**: Seamless experience across mobile, tablet & desktop
+- 🌑 **Dark Mode**: Sleek and immersive dark-themed interface
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** – Functional components & hooks
+- **Tailwind CSS** – Utility-first CSS for rapid UI development
+- **React Router DOM** – SPA routing
+- **Vite** – Next-generation frontend tooling
+- **LocalStorage** – Simulated session storage
+- **JavaScript (ES6+)** – Clean modern JS codebase
 
 ---
 
 ## 📂 Project Structure
 
-```text
+```txt
 prime-video-ui-clone/
 ├── public/
 │   └── index.html
 ├── src/
-│   ├── assets/             # Static assets (images, icons)
-│   ├── components/         # Navbar, Layout, Section (reusable UI components)
+│   ├── assets/             # Static images & logos
+│   ├── components/         # Reusable UI: Navbar, Sections, Cards
 │   ├── data/
-│   │   └── videos.json     # All video content categorized
-│   ├── pages/              # Main route-based views
+│   │   └── videos.json     # Categorized media data
+│   ├── pages/              # Page components (routes)
 │   │   ├── HomePage.jsx
 │   │   ├── MoviesPage.jsx
 │   │   ├── TVShowsPage.jsx
 │   │   ├── LiveTVPage.jsx
 │   │   └── SubscriptionPage.jsx
-│   ├── App.js              # Route logic & layout rendering
-│   └── index.js            # Entry point
+│   ├── styles/             # Custom Tailwind + component styles
+│   ├── App.js              # Layout and route definitions
+│   └── index.js            # React entry point
 ├── tailwind.config.js
 ├── postcss.config.js
 ├── package.json
@@ -123,77 +67,85 @@ prime-video-ui-clone/
 
 ---
 
-## 🛠️ Tech Stack
-
-* **React.js** – Declarative UI and reusable components
-* **Tailwind CSS** – Fast and responsive utility-first styling
-* **React Router DOM** – SPA navigation and routing
-* **LocalStorage** – Basic simulation of user sessions
-* **Vite** – Lightning-fast development server
-
----
-
 ## 🧠 Evaluation Criteria Mapping
 
-| Evaluation Criteria                    | ✅ Status                                |
-| -------------------------------------- | --------------------------------------- |
-| Code Quality & Logic (25%)             | ✔️ Achieved                             |
-| Functionality (25%)                    | ✔️ Achieved                             |
-| At Least One Interactive Feature (25%) | ✔️ Hover effects, dropdown, play button |
-| Code Organization (15%)                | ✔️ Modular folders, reusable components |
-| Documentation (10%)                    | ✔️ You're reading it!                   |
+| Criteria                      | Implemented                            |
+| ----------------------------- | -------------------------------------- |
+| ✅ Code Quality & Logic (25%)  | Modular components, reusable props     |
+| ✅ Functionality (25%)         | Fully working UI with categories       |
+| ✅ Interactive Component (25%) | Hover animation, dropdown, play action |
+| ✅ Code Organization (15%)     | Structured by domain and functionality |
+| ✅ Documentation (10%)         | This README + comments in code         |
 
 ---
 
 ## 📸 Preview
 
-> *Add demo GIFs or screenshots here using markdown image syntax:*
->
-> ```md
-> ![Preview](./src/assets/screenshot.png)
-> ```
+You can add a demo screenshot or GIF like this:
+
+```md
+![App Preview](./src/assets/screenshot.png)
+```
 
 ---
 
 ## 📄 Getting Started
 
-### Clone the repository
+### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/prime-video-ui-clone.git
-cd prime-video-ui-clone
+git clone https://github.com/sowmyareddyy/amazonprime.git
+cd amazonprime
 ```
 
-### Install dependencies
+### 2️⃣ Install Dependencies
 
 ```bash
 npm install
 ```
 
-### Run the development server
+### 3️⃣ Run Locally
 
 ```bash
 npm run dev
 ```
 
-Visit `http://localhost:5173` in your browser to view the app.
+Visit `http://localhost:5173` to explore the app in your browser.
 
 ---
 
-## 🙋‍♀️ Author
+## 🙋‍♀️ About Me
 
 Created with 💙 by **V Sowmya Reddy**
 
-* 📫 Reach me on [LinkedIn](https://www.linkedin.com)
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 Portfolio: \[Coming Soon!]
+* 🌐 [LinkedIn](https://www.linkedin.com/in/sowmyareddyy)
+* ✉️ Email: [vsowmyareddy@example.com](mailto:vsowmyareddy@example.com)
+* 💼 Portfolio: *Coming Soon*
 
 ---
 
 ## 📌 License
 
-This project is open-source and free to use for educational or personal learning purposes.
-```
+This project is **open source** and free to use for educational or non-commercial purposes.
 
+---
 
->>>>>>> fe59492c9ebdcbbb5a6f443403a14839ae344f99
+> ⭐ Don't forget to give this repo a star if you liked the project!
+
+````
+
+---
+
+### ✅ What’s Next?
+
+- ✅ Replace `vsowmyareddy@example.com` with your actual email.
+- ✅ Add a real screenshot at `src/assets/screenshot.png` or remove the image block.
+- ✅ Push this new `README.md` using:
+
+```bash
+git add README.md
+git commit -m "Updated README to professional version"
+git push origin main
+````
+
+Let me know if you want a professional **LinkedIn post caption** too!
